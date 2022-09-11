@@ -3,7 +3,7 @@
 <br>
 
 ## :sassy_man:  About me
-- :school: I'm computer science student  
+- :school: I'm senior computer science student  
 - 🌱 I’m currently learning: `Frontend Development` and `Data Science`.
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, 
 - :nerd_face: Always `learning new things`
