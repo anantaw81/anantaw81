@@ -1,5 +1,3 @@
-<h1 align="center">Hi , I'm Ananta Wijaya<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 ## :sassy_man:  About me
 - :school: I'm senior computer science student  
 - 🌱 I’m currently learning: `Frontend Development` and `Data Science`.
@@ -16,3 +14,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+<!-- <h1 align="center">Hi , I'm Ananta Wijaya<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> -->
