@@ -1,7 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  About me
-- :school: I'm senior computer science student  
 - 🌱 I’m currently learning: `Frontend Development` and `Data Science`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, 
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`,
+- :school: I'm senior computer science student.
 - :nerd_face: Always `learning new things`
 
 <!-- this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing). -->
